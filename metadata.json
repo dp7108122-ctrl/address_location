@@ -1,0 +1,7 @@
+{
+  "name": "ClientFlow",
+  "description": "A professional client management application with animated forms, geolocation integration, and data visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
